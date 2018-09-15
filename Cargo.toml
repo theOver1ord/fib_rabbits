@@ -1,0 +1,6 @@
+[package]
+name = "fib_rabbits"
+version = "0.1.0"
+authors = ["pow3roverlord"]
+
+[dependencies]
